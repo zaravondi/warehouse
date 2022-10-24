@@ -1,5 +1,11 @@
 # warehouse-ui
 
+# Vue project create commands:
+
+npm install -g @vue/cli —unsafe-perm
+vue create warehouse-ui
+
+
 ## Project setup
 ```
 npm install
