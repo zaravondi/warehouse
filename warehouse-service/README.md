@@ -5,7 +5,7 @@ This project built using Java and the following tools:
 * Hibernate as ORM/JPA implementation
 * H2 database used
 
-# Applicatiom Structure
+# Application Structure
 
 * Model: Domain model is organized under the model package and it consists of entity classes. Entities use various annotations that describe the relationships between each other. All these annotations are used by JPA in order to map entities to database tables.
 * DTO:  DTO stands for Data Transfer Object and I use DTOs ,in order to decouple the model layer from the client side. 
